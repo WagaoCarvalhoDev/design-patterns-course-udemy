@@ -28,6 +28,7 @@ database adapter => abstractFactory/app
 
 • Adaptar uma interface de uma classe
 • (backend) Hexagonal Architecture(validar se email existe em uma lista)
+• some()
 
 # Bridge
 
